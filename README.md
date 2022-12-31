@@ -2,6 +2,12 @@
 
 Flutter UI Designs
 
+1. Login Page UI only
+
+<div align = "center">
+  <img height = "800" width ="400" src ="screenshots/Screenshot_20221231_124103.png" alt = "login_page">
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
