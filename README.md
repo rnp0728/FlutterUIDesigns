@@ -5,7 +5,13 @@ Flutter UI Designs
 1. Login Page UI only
 
 <div align = "center">
-  <img height = "800" width ="400" src ="screenshots/Screenshot_20221231_124103.png" alt = "login_page">
+  <img height = "900" width ="400" src ="screenshots/Screenshot_20221231_124103.png" alt = "login_page">
+</div>
+
+2. Short cityInfo Page UI Only
+
+<div align = "center">
+  <img height = "900" width ="400" src ="screenshots/madridcity_page.png" alt = "cityInfo_page">
 </div>
 
 ## Getting Started
