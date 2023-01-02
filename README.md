@@ -14,6 +14,12 @@ Flutter UI Designs
   <img height = "900" width ="400" src ="screenshots/madridcity_page.png" alt = "cityInfo_page">
 </div>
 
+3. My own instagram profile view
+
+<div align = "center">
+  <img height = "900" width ="400" src ="screenshots/myinsta_profile_page.png" alt = "instagram_profile">
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
